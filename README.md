@@ -1,5 +1,5 @@
 # NN-project
-#### Turkey Ankara Ayrancı Anadolu High School's Sign Language Digits Dataset
+
 Given the dataset of Sign up 'Turkey Ankara Ayranci Anadolu High School's Sign
 Language Digits' , (https://github.com/ardamavi/Sign-Language-Digits-Dataset )
 
@@ -10,3 +10,20 @@ Language Digits' , (https://github.com/ardamavi/Sign-Language-Digits-Dataset )
 |0|1|2|3|4|
 |<img src="Examples/example_5.JPG">|<img src="Examples/example_6.JPG">|<img src="Examples/example_7.JPG">|<img src="Examples/example_8.JPG">|<img src="Examples/example_9.JPG">|
 |5|6|7|8|9|
+
+### Details of project:
+
+- Train using normalized RGB image and  gray images
+
+- Split your data to 2 parts:
+○ Training (80%) (Applying cross validation during training).
+○ testing(20%).
+
+- Build 2 different Neural Network architectures that can detect the digit of a
+given image(change number of hidden layer, number of neurons in each
+hidden layer).
+
+- Build a convolutional neural network model that can detect the digit of a
+given image(change number of conv layer , pooling layers,...).
+
+- Compare NN performance against SVM classifier 
