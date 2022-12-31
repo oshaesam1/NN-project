@@ -13,17 +13,17 @@ Language Digits' , (https://github.com/ardamavi/Sign-Language-Digits-Dataset )
 
 ### Details of project:
 
-- Train using normalized RGB image and  gray images
+- Training using normalized RGB image and  gray images
 
-- Split your data to 2 parts:
+- Spliting  data to 2 parts:
 ○ Training (80%) (Applying cross validation during training).
 ○ testing(20%).
 
-- Build 2 different Neural Network architectures that can detect the digit of a
+- Building 2 different Neural Network architectures that can detect the digit of a
 given image(change number of hidden layer, number of neurons in each
 hidden layer).
 
-- Build a convolutional neural network model that can detect the digit of a
+- Building a convolutional neural network model that can detect the digit of a
 given image(change number of conv layer , pooling layers,...).
 
-- Compare NN performance against SVM classifier 
+- Comparing NN performance against SVM classifier 
