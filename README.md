@@ -15,7 +15,7 @@ Language Digits' , (https://github.com/ardamavi/Sign-Language-Digits-Dataset )
 
 - Training using normalized RGB image and  gray images
 
-- Spliting  data to 2 parts:
+- Spliting  data into 2 parts:
   - Training (80%) (Applying cross validation during training).
   - Testing(20%).
 
