@@ -16,8 +16,8 @@ Language Digits' , (https://github.com/ardamavi/Sign-Language-Digits-Dataset )
 - Training using normalized RGB image and  gray images
 
 - Spliting  data to 2 parts:
-  -Training (80%) (Applying cross validation during training).
-  -Testing(20%).
+  - Training (80%) (Applying cross validation during training).
+  - Testing(20%).
 
 - Building 2 different Neural Network architectures that can detect the digit of a
 given image(change number of hidden layer, number of neurons in each
