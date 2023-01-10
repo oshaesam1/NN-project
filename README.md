@@ -2,6 +2,7 @@
 
 Given the dataset of Sign up 'Turkey Ankara Ayranci Anadolu High School's Sign
 Language Digits' , (https://github.com/ardamavi/Sign-Language-Digits-Dataset )
+Build a Neural Network model that can detect the sign language digits  
 
 ### Dataset Preview:
 
